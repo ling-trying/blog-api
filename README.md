@@ -15,5 +15,7 @@ In the current version you can:
 
 
 ## Screenshots from my frontend project (not included)
-
-
+![screenshot](showcase/picture1.png)
+![screenshot](showcase/picture2.png)
+![screenshot](showcase/picture3.png)
+![screenshot](showcase/picture4.png)
